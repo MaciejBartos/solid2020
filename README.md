@@ -2,7 +2,7 @@
 
 **Zadanie 1:** Clean Code
 
-Klasa `pl.zzpj2020.cleancode.doIt` nie przestrzega zasad Clean Code. Przerefaktoruj kod zgodnie z zasadami poznanymi podczas wykładu.
+Klasa `pl.zzpj2020.cleancode.listToHashMapConverter` nie przestrzega zasad Clean Code. Przerefaktoruj kod zgodnie z zasadami poznanymi podczas wykładu.
 
 Pytania uzupełniające:
 - Jaka jest rola tej klasy? 
